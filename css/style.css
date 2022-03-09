@@ -1,0 +1,16 @@
+body {
+	background-color: hotpink;
+	color: white;
+}
+
+a {
+	color: blue;
+}
+
+h1 {
+	color: darkkhaki;
+}
+
+.intro {
+	font-size: 50px;
+}
